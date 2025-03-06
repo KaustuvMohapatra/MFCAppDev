@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "name": "Home",
+    "description": "Your starting point.",
+    "choices": [
+      { "text": "Enter the house", "nextLocation": "Library" }
+    ]
+  },
+  "Library": {
+    "name": "Library",
+    "description": "A room full of old books.",
+    "choices": []
+  }
+}
